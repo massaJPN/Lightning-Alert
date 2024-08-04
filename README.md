@@ -1,4 +1,4 @@
-# Lightning-Arart
+# Lightning-Alert
 使用したパーツ  
 ・AS3935:雷センサーモジュール　　参考）秋月電子さんの販売コード 108685  
 ・M5Stamp Pico:センサーと接続するマイコンです。今回はESP32マイコン搭載のM5Stamp Picoを使用。  
